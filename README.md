@@ -7,3 +7,6 @@ This repository contains simple documentation to my public api's, including go-m
  - [Disneyland Paris API](https://github.com/Mindgamesnl/craftmend-api/blob/master/disney-paris/README.md) Contains real-time dlp api, containing park information about rides and more.
  - [Efteling API](https://github.com/Mindgamesnl/craftmend-api/blob/master/efteling/README.md) Contains real-time efteling park information about shows, rides, and more.
  - [NS API](https://github.com/Mindgamesnl/craftmend-api/blob/master/ns/README.md) Contains REST API's for station listing/details, departure times and routes.
+
+# Disclaimer
+I don't own any of this data, feel free to contact me for a takedown request.
