@@ -4,7 +4,7 @@ A few public REST API's I made of things that interest me or I use in my own pro
 This repository contains simple documentation to my public api's, including go-models for their response types.
 
 ## Current API's
- - [IP & Geo](https://github.com/Mindgamesnl/craftmend-api/tree/master/ip-and-geo)
+ - [IP & Geo](https://github.com/Mindgamesnl/craftmend-api/tree/master/ip-and-geo) Simple fetch endpoint to get a public ip address and country
  - [Disneyland Paris API](https://github.com/Mindgamesnl/craftmend-api/blob/master/disney-paris/README.md) Contains real-time dlp api, containing park information about rides and more.
  - [Efteling API](https://github.com/Mindgamesnl/craftmend-api/blob/master/efteling/README.md) Contains real-time efteling park information about shows, rides, and more.
  - [NS API](https://github.com/Mindgamesnl/craftmend-api/blob/master/ns/README.md) Contains REST API's for station listing/details, departure times and routes.
